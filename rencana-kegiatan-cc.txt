@@ -2,5 +2,7 @@ Rencanan kegiatan computer club
 
 - CC Routine
   * Product Designer
+    - Design Thinking
   * Software Engineering
+    - Github dan git
 - CC Project
