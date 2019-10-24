@@ -3,6 +3,7 @@ Rencanan kegiatan computer club
 - CC Routine
   * Product Designer
     - Design Thinking
+    - Design pattern
   * Software Engineering
     - Github dan git
     - Struktur data
