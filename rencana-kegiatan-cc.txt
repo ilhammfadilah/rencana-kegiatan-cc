@@ -1,4 +1,6 @@
 Rencanan kegiatan computer club
 
 - CC Routine
+  * Product Designer
+  * Software Engineering
 - CC Project
