@@ -5,4 +5,5 @@ Rencanan kegiatan computer club
     - Design Thinking
   * Software Engineering
     - Github dan git
+    - Struktur data
 - CC Project
